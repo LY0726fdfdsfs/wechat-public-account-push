@@ -16,7 +16,7 @@ const USER_CONFIG = {
   PROVINCE: '安徽',
   CITY: '芜湖',
 
-  USERS: [
+  USERS: ["ovdOa5s_h-_VL_KsHLqIE1BVufUk"]
     {
       // 想要发送的人的名字
       name: '憨憨',
@@ -50,7 +50,7 @@ const USER_CONFIG = {
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
   CALLBACK_TEMPLATE_ID: 'ovdOa5oMe_Q1G-QQUvK7JqJ1TtjI',
 
-  CALLBACK_USERS: [
+  CALLBACK_USERS: ['ovdOa5oMe_Q1G-QQUvK7JqJ1TtjI"]
     {
       name: '自己',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
