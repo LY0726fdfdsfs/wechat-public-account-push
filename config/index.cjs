@@ -16,7 +16,7 @@ const USER_CONFIG = {
   PROVINCE: '安徽',
   CITY: '芜湖',
 
-  USERS: [
+  USERS: ["ovdOa5heAmEPn-DFzJ68R4BElGqA"][
     {
       // 想要发送的人的名字
       name: '憨憨',
@@ -52,7 +52,7 @@ const USER_CONFIG = {
   CALLBACK_TEMPLATE_ID:
   'ovdOa5heAmEPn-DFzJ68R4BElGqA',
 
-  CALLBACK_USERS: [
+  CALLBACK_USERS: ["ovdOa5heAmEPn-DFzJ68R4BElGqA"][
     {
       name: '自己',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
